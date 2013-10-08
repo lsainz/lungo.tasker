@@ -1,0 +1,11 @@
+li {
+	color: black;
+}
+
+li.done {
+	color: blue;
+}
+
+li:hover{
+	background-color: red;
+}

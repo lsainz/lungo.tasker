@@ -1,0 +1,12 @@
+{
+    "name"          : "lungo.tasker",
+    "version"		: "0.0.1",
+    "dependencies"  : {},
+    "devDependencies"   : {
+        "grunt-contrib-coffee"  : "*",
+        "grunt-contrib-watch"   : "*",
+        "grunt-contrib-concat"	: "*",
+        "grunt-contrib-uglify"	: "*"
+    },
+    "engines"       : {"node": "*"}
+}
